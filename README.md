@@ -6,3 +6,10 @@
 2/ Download and install the RF24 and IRremote libraries for Arduino:  
 https://www.arduinolibraries.info/libraries/rf24  
 https://www.arduinolibraries.info/libraries/i-rremote   
+
+### Additional Resources ###  
+https://github.com/nRF24/RF24/  
+https://learn.adafruit.com/ir-sensor/overview  
+https://howtomechatronics.com/tutorials/arduino/how-to-build-an-arduino-wireless-network-with-multiple-nrf24l01-modules/  
+http://spencernusbaum.com/wordpress/index.php/2018/07/22/working-with-the-nrf24l01-transcievers-on-the-raspberry-pi-and-arduino/  
+
